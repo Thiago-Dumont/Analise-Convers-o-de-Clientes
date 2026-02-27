@@ -23,6 +23,7 @@ Pandas
 Google Colab
 
 Calculei as taxas de conversão entre cada etapa do funil.
+![Funil de Conversão](grafico_conversao.png)
 O Que os Dados Mostraram
 
 Etapa
