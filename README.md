@@ -46,3 +46,10 @@ Revisão → Compra
 
 28,2%
 
+Ao analisar os dados, apareceu algo bem claro:
+o produto mais vendido é justamente o único que tem foto no aplicativo do cliente.
+
+Isso indica que a imagem faz muita diferença na escolha.
+## 📊 Análise dos Produtos
+
+![Análise de Produtos](grafico_produtos_ifood.png)
